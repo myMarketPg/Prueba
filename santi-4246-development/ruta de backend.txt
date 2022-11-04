@@ -1,2 +1,2 @@
 Mediante esta ruta se investigará para la autenticación de usuario.
-También se investigará sobre la utilización de cookies de sesión
+También se investigará sobre la utilización de cookies de sesión.
